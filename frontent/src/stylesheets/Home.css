@@ -1,0 +1,13 @@
+.btn-color{
+    background-color: rgb(24,35,52);
+    color: white;
+}
+
+.btn-color:hover{
+    background-color: rgb(44, 44, 248);
+    color: white;
+}
+
+.img-h{
+    height: 17rem;
+}
